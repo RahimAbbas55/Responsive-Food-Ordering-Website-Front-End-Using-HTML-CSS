@@ -1,1 +1,2 @@
 # Responsive-Food-Ordering-Website-Front-End-Using-HTML-CSS
+Hello everyone, This is a landing page website of a food ordering system using html and css. This is a responsive website which is made keeping in mind every aspect. The css style sheet is in a separate folder named "css". You can also find images in a folder named "img" Feel free to use this project and if you have any doubts, queries or anything like that, hit me on my social accounts given in my profile description. Happy Coding😊😊😊
